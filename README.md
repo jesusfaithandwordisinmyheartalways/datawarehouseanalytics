@@ -41,33 +41,42 @@ The goal is to showcase skills in **data engineering, analytics, and visualizati
 
 ## Dashboards Links
 ### Tableau Dashboards
-- [Dashboard 1: Sales Over Time](#)  
-- [Dashboard 2: Top Products & Categories](#)  
-- [Dashboard 3: Customer Regions](#)  
+View the interactive dashboards here: [Sales Data Dashboards]
+
+- [Dashboard 1: Sales Over Time](#)   -
+- https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- [Dashboard 2: Top Products & Categories](#)   -
+    https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards2/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- [Dashboard 3: Customer Regions](#)
+
+  - https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards3/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+
+
+
+
 
 ### Power BI Dashboards
-- [Dashboard 1: Sales Insights](#)  
-- [Dashboard 2: Product & Category Analysis](#)  
-- [Dashboard 3: Customer Insights](#)  
-
+-Dshboard-Sales Insight -
 
 [power_bi_dashboard.pdf](https://github.com/user-attachments/files/24556339/power_bi_dashboard.pdf)
 
+- [Dashboard 2: Product & Category Analysis](#)  -
+    [power_bi_dashboard_two.pdf](https://github.com/user-attachments/files/24556341/power_bi_dashboard_two.pdf)
 
 
-[power_bi_dashboard_two.pdf](https://github.com/user-attachments/files/24556341/power_bi_dashboard_two.pdf)
-[power_bi_dashboard_three.pdf](https://github.com/user-attachments/files/24556344/power_bi_dashboard_three.pdf)
+[Dashboard 3: Customer Insights](#)   - 
+   [power_bi_dashboard_three.pdf](https://github.com/user-attachments/files/24556344/power_bi_dashboard_three.pdf)
 
 
 
 
-View the interactive dashboards here: [Sales Data Dashboards]
-https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards2/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-https://public.tableau.com/views/DataWarehouseAnalytics_WorkbookDashboards3/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
