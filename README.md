@@ -51,9 +51,12 @@ The goal is to showcase skills in **data engineering, analytics, and visualizati
 - [Dashboard 3: Customer Insights](#)  
 
 
+[power_bi_dashboard.pdf](https://github.com/user-attachments/files/24556339/power_bi_dashboard.pdf)
 
 
 
+[power_bi_dashboard_two.pdf](https://github.com/user-attachments/files/24556341/power_bi_dashboard_two.pdf)
+[power_bi_dashboard_three.pdf](https://github.com/user-attachments/files/24556344/power_bi_dashboard_three.pdf)
 
 
 
