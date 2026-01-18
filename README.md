@@ -10,34 +10,6 @@ The goal is to showcase skills in **data engineering, analytics, and visualizati
 
 
 
-## Technologies & Libraries Used
-- **Python**: pandas, scikit-learn, psycopg2  
-- **R**: beginner tasks and visualization  
-- **PostgreSQL & pgAdmin**: database design, star schema, ETL load  
-- **Tableau**: interactive dashboards & data visualization  
-- **Power BI Service**: cloud dashboards, interactive visualizations  
-- **Airflow** *(optional)*: ETL workflow automation  
-
----
-
-## Key Steps in the Project
-1. **Data Cleaning & ETL**  
-   - Raw CSV data (`sales.csv`) cleaned using Python and saved as `sales_clean.csv`.  
-   - Added derived columns (`total_price`, `month`, `year`) for analysis.
-
-2. **Star Schema in PostgreSQL**  
-   - Created dimension tables (`product_dim`, `customer_dim`, `date_dim`) and fact table (`sales_fact`).  
-   - Loaded processed data into PostgreSQL using Python scripts.
-
-3. **Feature Engineering & Baseline Model**  
-   - Generated features using Python & R.  
-   - Built a simple linear regression baseline to predict total sales.
-
-4. **Data Visualization**  
-   - **Tableau**: three dashboards showing sales over time, top products, category distribution, and customer regions.  
-   - **Power BI**: similar dashboards created in web-based Power BI Service with interactive filters.
-
----
 
 ## Dashboards Links
 ### Tableau Dashboards
@@ -73,6 +45,40 @@ View the interactive dashboards here: [Sales Data Dashboards]
    [power_bi_dashboard_three.pdf](https://github.com/user-attachments/files/24556344/power_bi_dashboard_three.pdf)
 
 
+
+
+
+
+
+
+## Technologies & Libraries Used
+- **Python**: pandas, scikit-learn, psycopg2  
+- **R**: beginner tasks and visualization  
+- **PostgreSQL & pgAdmin**: database design, star schema, ETL load  
+- **Tableau**: interactive dashboards & data visualization  
+- **Power BI Service**: cloud dashboards, interactive visualizations  
+- **Airflow** *(optional)*: ETL workflow automation  
+
+---
+
+## Key Steps in the Project
+1. **Data Cleaning & ETL**  
+   - Raw CSV data (`sales.csv`) cleaned using Python and saved as `sales_clean.csv`.  
+   - Added derived columns (`total_price`, `month`, `year`) for analysis.
+
+2. **Star Schema in PostgreSQL**  
+   - Created dimension tables (`product_dim`, `customer_dim`, `date_dim`) and fact table (`sales_fact`).  
+   - Loaded processed data into PostgreSQL using Python scripts.
+
+3. **Feature Engineering & Baseline Model**  
+   - Generated features using Python & R.  
+   - Built a simple linear regression baseline to predict total sales.
+
+4. **Data Visualization**  
+   - **Tableau**: three dashboards showing sales over time, top products, category distribution, and customer regions.  
+   - **Power BI**: similar dashboards created in web-based Power BI Service with interactive filters.
+
+---
 
 
 
