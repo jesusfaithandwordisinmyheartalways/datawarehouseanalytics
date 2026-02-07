@@ -1,4 +1,3 @@
--- DIMENSION TABLES
 CREATE TABLE product_dim (
     product_id SERIAL PRIMARY KEY,
     product_name VARCHAR(100),
@@ -8,7 +7,8 @@ CREATE TABLE product_dim (
 CREATE TABLE customer_dim (
     customer_id SERIAL PRIMARY KEY,
     customer_name VARCHAR(100),
-    customer_city VARCHAR(100)
+    customer_city VARCHAR(100),
+    country VARCHAR(50)
 );
 
 CREATE TABLE date_dim (
@@ -19,7 +19,6 @@ CREATE TABLE date_dim (
     day INT
 );
 
--- FACT TABLE
 CREATE TABLE sales_fact (
     sale_id SERIAL PRIMARY KEY,
     date_id INT REFERENCES date_dim(date_id),
@@ -27,5 +26,6 @@ CREATE TABLE sales_fact (
     product_id INT REFERENCES product_dim(product_id),
     quantity INT,
     unit_price NUMERIC(10,2),
-    total_price NUMERIC(10,2)
+    total_price NUMERIC(12,2),
+    profit NUMERIC(12,2)
 );

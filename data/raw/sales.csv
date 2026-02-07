@@ -1,6 +1,17 @@
-date,customer_name,customer_city,product_name,category,quantity,unit_price
-2024-01-01,John Doe,New York,Laptop,Electronics,1,1200
-2024-01-02,Jane Smith,Chicago,Mouse,Electronics,2,25
-2024-01-05,Alice Johnson,Miami,Desk,Furniture,1,220
-2024-01-06,Bob Lee,Seattle,Monitor,Electronics,1,300
-2024-01-10,Chris Kim,Los Angeles,Chair,Furniture,2,150
+date,customer_name,customer_city,country,product_name,category,quantity,unit_price
+2024-01-01,John Doe,New York,USA,Laptop,Electronics,1,1200
+2024-01-02,Jane Smith,Chicago,USA,Mouse,Electronics,2,25
+2024-01-05,Alice Johnson,Miami,USA,Desk,Furniture,1,220
+2024-01-06,Bob Lee,Seattle,USA,Monitor,Electronics,1,300
+2024-01-10,Chris Kim,Los Angeles,USA,Chair,Furniture,2,150
+2024-02-05,Acme Corp,Toronto,Canada,Pallet Racks,Warehouse Equipment,10,8500
+2024-02-12,LogiTech GmbH,Berlin,Germany,Conveyors,Warehouse Equipment,5,18000
+2024-02-18,EuroPack SAS,Paris,France,Packing Tables,Warehouse Equipment,8,7200
+2024-03-01,FastShip Ltd,London,UK,Forklifts,Warehouse Equipment,3,42000
+2024-03-10,SupplyPro,Cape Town,South Africa,Stretch Wrap,Consumables,500,4
+2024-03-15,GlobalStore,Amsterdam,Netherlands,Bins,Consumables,300,12
+2024-04-05,Warehouse King,Dallas,USA,Forklifts,Warehouse Equipment,4,45000
+2024-04-20,PackRight,Madrid,Spain,Envelopes,Consumables,1000,1.5
+2024-05-02,StorageHub,Milan,Italy,Pallet Racks,Warehouse Equipment,12,9000
+2024-05-18,LogiMax,Vancouver,Canada,Backpacks,Consumables,200,35
+2024-06-01,DistribCo,Nairobi,Kenya,Tables,Furniture,150,180

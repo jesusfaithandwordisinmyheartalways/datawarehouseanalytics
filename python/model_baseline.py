@@ -1,9 +1,9 @@
 from sklearn.linear_model import LinearRegression
 import pandas as pd
 
-df = pd.read_csv('../data/processed/sales_clean.csv')
+df = pd.read_csv('data/processed/sales_clean.csv')
 
-X = df[['quantity', 'unit_price']]   # FIXED error here
+X = df[['quantity', 'unit_price']]
 y = df['total_price']
 
 model = LinearRegression()
